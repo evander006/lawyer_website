@@ -1,0 +1,71 @@
+style.css
+.container-header h2 {
+	font-family: Century Gothic, serif;
+	font-size: 60px;
+	padding-top: 80px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+h1,h2,h3,h4,h5,p {
+    font-family: Century Gothic, serif;
+}
+#textsite h2{
+	font-family: Century Gothic, serif;
+	font-size: 60px;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.card {
+	width: 100%;
+	margin-bottom: 40px;
+}
+
+.card-body {
+    font-family: Century Gothic, serif;
+}
+
+#tableinfo {
+	font-family: Century Gothic, serif;
+}
+
+#aboutUSA {
+	padding-top: 40px;
+}
+
+#aboutUSA h1{
+	font-family: Century Gothic, serif;
+	font-weight: bold;
+}
+
+#photo {
+	width: 30%;
+	float: right;
+	margin: 20px;
+}
+
+.container h3{
+	text-align: center;
+	font-size: 75px;
+	margin: 80px;
+	font-style: italic;
+}
+
+#text h1{
+    font-size:70px;
+}
+
+.imgFlorida{
+    float:right;
+}
+#texas{
+    font-size: 190px;
+    margin-top: 80px;
+    letter-spacing: 90px;
+}
+#california{
+    font-size: 110px;
+    margin-top: 80px;
+    letter-spacing: 50px;
+}
